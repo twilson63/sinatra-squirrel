@@ -1,6 +1,8 @@
 = sinatra-squirrel
 
 Port of the Thought Bots Squirrel Search to Sinatra
+  
+Trying to get the release to build the gem
 
 == Copyright
 
