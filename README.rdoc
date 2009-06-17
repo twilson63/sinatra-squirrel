@@ -1,6 +1,6 @@
 = sinatra-squirrel
 
-Description goes here.
+Port of the Thought Bots Squirrel Search to Sinatra
 
 == Copyright
 

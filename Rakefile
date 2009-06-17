@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "sinatra-squirrel"
-    gem.summary = %Q{TODO}
+    gem.summary = %Q{Port of Thought Bot Squirrel to Sinatra}
     gem.email = "tom@jackrussellsoftware.com"
     gem.homepage = "http://github.com/twilson63/sinatra-squirrel"
     gem.authors = ["twilson63"]
