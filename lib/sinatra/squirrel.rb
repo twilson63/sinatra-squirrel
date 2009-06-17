@@ -1,5 +1,4 @@
-require 'paginator'
-require 'extensions'
+require File.dirname(__FILE__) + '/paginator.rb'require File.dirname(__FILE__) + '/extensions.rb'
 
 # Squirrel is a library for making querying the database using ActiveRecord cleaner, easier
 # to read, and less prone to user error. It does this by allowing AR::Base#find to take a block,
